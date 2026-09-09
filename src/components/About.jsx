@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import nimmiabout from "../assets/nimmiabout.jpeg"
+import nimmiabout from "../assets/Nimmiabout.jpeg"
 
 function About() {
   return (
